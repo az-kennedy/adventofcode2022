@@ -5,5 +5,5 @@ $count = 1
 $score = 0
 
 foreach ($row in $data) {
-  
+  # Process points here
 }
